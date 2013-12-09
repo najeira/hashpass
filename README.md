@@ -36,4 +36,4 @@ License
 -------
 
 * Copyright: 2013 by najeira.
-* License: MIT
+* License: New BSD License.
